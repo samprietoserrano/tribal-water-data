@@ -1,4 +1,4 @@
-# tribal_water_data
+# tribal-water-data
 
 R Shiny app where California water data is compiled to inform and assist reports related to water issues in tribal areas within the state, including:
 
